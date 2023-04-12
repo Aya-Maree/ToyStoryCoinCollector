@@ -1,4 +1,4 @@
-#ToyStoryCoinCollector
+ToyStoryCoinCollector
 
 ![alt text](./img/toyStroy.png "Toy Story")
 
