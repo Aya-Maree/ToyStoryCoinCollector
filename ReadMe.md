@@ -1,4 +1,4 @@
-##ToyStoryCollectTheCoins
+##ToyStoryCoinCollector
 
 ![alt text](./img/toyStory.png "Main")
 
