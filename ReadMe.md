@@ -1,4 +1,6 @@
-##Collect the Coins game
+##ToyStoryCollectTheCoins
+
+![alt text](./img/toyStory.png "Main")
 
 Toy Story themeed collect the coins game. The user tried to collect the falling coins.
 
